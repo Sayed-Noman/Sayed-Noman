@@ -6,13 +6,13 @@
   <samp>
     I'm <a href="https://github.com/Sayed-Noman/">Noman</a> currently a Third Year CSE student at <a href="http://www.northsouth.edu/">North South University :school: </a> and aspiring software engineer:computer:. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
       
+  </samp>
+</p>
+
 - I am currently working on the Django web framework . [Django Website](https://www.djangoproject.com/)
 - I don't have industry experience but I worked on few projects. [Web Project](https://github.com/Sayed-Noman/NSU-CSE311-Online-Interactive-Driver-Police-Control-System) (Mini project).
 - I am interested in innovation,philosophy,anime,music and video games.
 - <img src="assets/img/png/bd.png" alt="Bangla" title="Bangla"> Native&nbsp;|&nbsp;<img src="assets/img/png/uk.png" alt="English" title="English"> Fluent
-  </samp>
-</p>
-
 
 
 <h2 align="center">Tech/Software Stack</h2>
