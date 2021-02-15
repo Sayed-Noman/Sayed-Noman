@@ -30,6 +30,7 @@
 </div>  
 
 
+
 <p align="center">
 <a href="https://github.com/Sayed-Noman">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sayed-Noman&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />
@@ -38,7 +39,11 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Noman&layout=compact&theme=great-gatsby" />
 </a>
 </p>
+<div align="center">
+    
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayed-Noman)  
 
+</div>  
 
 
 
