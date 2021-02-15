@@ -8,10 +8,9 @@
   </samp>
 </p>
 
-- I am working on the Golang web framework [🍐Goyave](https://github.com/System-Glitch/goyave).
-- I am web director at [Project Celeste](https://www.projectceleste.com) (fan project).
-- I contributed to [`google/periph`](https://github.com/google/periph), [`gotk3/gotk3`](https://github.com/gotk3/gotk3), [`golangci/golangci-lint`](https://github.com/golangci/golangci-lint), and more!
-- I am interested in innovation, art, philosophy, music and video games.
+- I am currently working on the Django web framework . [Django Website](https://www.djangoproject.com/)
+- I don't have industry experience but I worked on few projects. [Web Project](https://github.com/Sayed-Noman/NSU-CSE311-Online-Interactive-Driver-Police-Control-System) (Mini project).
+- I am interested in innovation,philosophy,anime,music and video games.
 - <img src="assets/img/png/bd.png" alt="Bangla" title="Bangla"> Native&nbsp;|&nbsp;<img src="assets/img/png/uk.png" alt="English" title="English"> Fluent
 
 <div align="center">
@@ -23,7 +22,8 @@
     <img src="assets/img/png/python.png" alt="Python" title="Python">
     <img src="assets/img/png/vscode.png" alt="Visual Studio Code" title="Visual Studio Code">
 </div>
- 
+
+
 <div align="center">
     <img src="assets/img/png/separator.png" width="100%"/>
 </div>  
