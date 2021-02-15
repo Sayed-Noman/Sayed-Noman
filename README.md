@@ -9,10 +9,20 @@
 </p>
 
 
-    
+ 
+<div align="center">
+    <img src="assets/img/png/separator.png" width="100%"/>
+</div>  
+
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayed-Noman&show_icons=true) 
+ 
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Noman)  
+
+<div align="center">
+    <img src="assets/img/png/footer.png" width="100%"/>
+</div>
+
 
 
 
