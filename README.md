@@ -8,9 +8,7 @@
   </samp>
 </p>
 
-<div align="center">
-    <img src="assets/footer.png" alt="" width="100%"/>
-</div>
+
 
 
 
