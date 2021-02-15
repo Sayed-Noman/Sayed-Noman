@@ -28,15 +28,14 @@
     <img src="assets/img/png/separator.png" width="100%"/>
 </div>  
 
+
 <div align="center">
-     [![Sayed Noman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayed-Noman&show_icons=true)](https://github.com/Sayed-Noman)
-</div>  
 
+[![Sayed-Noman's Github stats](https://github-readme-stats.vercel.app/api?username=Sayed-Noman&show_icons=true&count_private=true&include_all_commits=true&layout=compact)](https://github.com/Sayed-Noman)
 
- 
- 
-    
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Noman) 
+    
+</div>  
 
 
 <div align="center">
