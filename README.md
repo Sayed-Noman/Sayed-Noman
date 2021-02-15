@@ -31,7 +31,23 @@
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayed-Noman&show_icons=true) 
  
     
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Noman)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Noman) 
+
+
+<div align="center">
+    <a href="https://www.facebook.com/sayed.noman.52012/">
+        <img src="assets/img/svg/facebook.svg" alt="Facebook" title="Facebook" width="35" height="35">
+    </a>
+    <a href="https://www.linkedin.com/in/sayed-noman-603377204/">
+        <img src="assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="35" height="35">
+    </a>
+    <a href="https://t.me/">
+        <img src="assets/img/svg/telegram.svg" alt="Telegram" title="Telegram" width="35" height="35">
+    </a>
+    <a href="https://www.patreon.com/">
+        <img src="assets/img/svg/patreon.svg" alt="Patreon" title="Patreon" width="35" height="35">
+    </a>
+</div>
 
 <div align="center">
     <img src="assets/img/png/footer.png" width="100%"/>
