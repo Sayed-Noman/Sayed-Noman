@@ -26,10 +26,11 @@
 </div>
 
 
-<div align="center">
+<!--<div align="center">
     <img src="assets/img/png/separator.png" width="100%"/>
 </div>  
-
+-->
+<h2 align="center">Sayed's Github Stats</h2>
 
 
 <p align="center">
@@ -58,7 +59,7 @@
 </div>  
 -->
 <div align="center">
-    <h3 align="center">Connect with me</h3>
+    <h2 align="center">Connect with me</h2>
     <a href="https://www.facebook.com/sayed.noman.52012/">
         <img src="assets/img/svg/facebook.svg" alt="Facebook" title="Facebook" width="35" height="35">
     </a>
