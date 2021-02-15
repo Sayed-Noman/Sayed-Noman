@@ -28,7 +28,12 @@
     <img src="assets/img/png/separator.png" width="100%"/>
 </div>  
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayed-Noman&show_icons=true) 
+<div align="center">
+     [![Sayed Noman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayed-Noman&show_icons=true)](https://github.com/Sayed-Noman)
+</div>  
+
+
+ 
  
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Noman) 
