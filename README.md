@@ -13,7 +13,8 @@
 - I am interested in innovation,philosophy,anime,music and video games.
 - <img src="assets/img/png/bd.png" alt="Bangla" title="Bangla"> Native&nbsp;|&nbsp;<img src="assets/img/png/uk.png" alt="English" title="English"> Fluent
 
-## Tech/Software Stack
+<h2 align="center">Tech/Software Stack</h2>
+
 <div align="center">
     <img src="assets/img/png/cplus.jpg" alt="Cplus" title="Cplus">
     <img src="assets/img/png/js.png" alt="Javascript" title="Javascript">
@@ -57,6 +58,7 @@
 </div>  
 -->
 <div align="center">
+    <h3 align="center">Connect with me</h3>
     <a href="https://www.facebook.com/sayed.noman.52012/">
         <img src="assets/img/svg/facebook.svg" alt="Facebook" title="Facebook" width="35" height="35">
     </a>
