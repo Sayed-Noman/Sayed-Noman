@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    I'm <a href="https://github.com/Sayed-Noman/">Noman</a> currently a Third Year CSE student at <a href="http://www.northsouth.edu/">North South University :school: </a> and aspiring software engineer:computer:. Interested in working on backend, API's, Databases and currently learning about Web Application and Functional programming. Occasionaly I do practice programming concepts :bulb: and I have a love/hate relationshi with Programming :neutral_face:
+    I'm <a href="https://github.com/Sayed-Noman/">Noman</a> currently a Third Year CSE student at <a href="http://www.northsouth.edu/">North South University :school: </a> and aspiring software engineer:computer:. Interested in working on backend, API's, Databases and currently learning about Web Application and Functional programming. Occasionaly I do practice programming concepts :bulb: and I have a love/hate relationship with Programming :neutral_face:
       
   </samp>
 </p>
